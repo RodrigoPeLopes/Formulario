@@ -1,0 +1,13 @@
+body {
+  width: 100%;
+  min-height: 100vh;
+  background: linear-gradient(90deg, #141414 0%, #424242 100%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+div {
+  color: #fafafd;
+  font-weight: bold;
+}
