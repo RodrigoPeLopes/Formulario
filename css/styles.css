@@ -11,3 +11,7 @@ div {
   color: #fafafd;
   font-weight: bold;
 }
+
+.container {
+  width: 400px;
+}
